@@ -1,0 +1,24 @@
+.img-movimento{
+width: 77px;
+border:110px groove rgb(255, 0, 0) ;
+
+
+}
+.gif-title{
+    font-size:larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration:border-color blue; 
+}
+.container{
+    text-align: center;
+    border: 90px groove rgb(5, 255, 5);
+}
+.container2{
+    text-align: center;
+    border: 150px solid blue;
+}
+.img-movimento2{
+    width:100px;
+
+}
